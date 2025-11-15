@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-10-08",
+  "main": "src/index.ts",
+  "name": "databasecloudflaretienda",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "42ff0895-65d0-49ce-a42d-6cfdf961b8b9",
+      "database_name": "tienda1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
